@@ -5,7 +5,7 @@ function Footer() {
         <React.Fragment>
             <footer id='foot'>
                 <p>
-                    Made with <span id='heart'>♥</span> By Team&nbsp;<u>Marvelians</u>
+                    Made with <span id='heart'>♥</span> By Team&nbsp;<u>CP/DSA</u>
                 </p>
             </footer>
         </React.Fragment>
