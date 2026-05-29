@@ -1,9 +1,3 @@
-# Live-Link
--[Here](http://dsalgotracker.vercel.app)
-
-# Devfolio-Link
--[Here](https://devfolio.co/projects/dsa-tracker-platform-3213)
-
 # DSA Tracker Platform
 
 Welcome to DSA Tracker Platform! This tool is designed to address key challenges faced by individuals preparing for placements by offering a comprehensive solution for mastering data structures and algorithms (DSA).
@@ -50,7 +44,7 @@ By utilizing the DSA Tracker Platform, you're empowering yourself with a reliabl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sankettank66/DSA-tracker.git
+   git clone https://github.com/vivekkumar012/DSA-Tracker.git
    cd DSA-tracker
    ```
 
